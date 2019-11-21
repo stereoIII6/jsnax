@@ -1,16 +1,40 @@
 {
-  "posts":[
+  "todos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "Update Method needs a bake !!!",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "LeParfum Webdesignerin checken !",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Bake a Bot for LeParfum",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "BITZEE.BIZ next release x2 on Thursday the 28.11.2019",
+      "completed": false,
+      "id": 5
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "users":[
+      {
+      "id": "0a4f3d331d29",
+      "name": "admin",
+      "role": "admin",
+      "logs": {
+          "first": "2020.12.21-18:34",
+          "last": "2020.12.21-19:41",
+          "all": ["2020.12.21-18:34","2020.12.21-19:41"],
+          "ip": ["192.168.0.1","127.0.0.1","localhost"]
+        },
+        "hash": "scrambledeggs",
+        "hush": "mixedpickles"
+      },
+      {}
   ]
 }
