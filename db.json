@@ -1,88 +1,16 @@
 {
   "todos": [
     {
-        "code": 2,
+        "code": "2",
         "name": "Abercrombie Fitch Woods A. Fitch !",
         "sex": "UNISEX",
-        "date": 0
+        "date": "0"
     },
     {
-        "code": 3,
+        "code": "3",
         "name": "ADIDAS Adidas Sport !",
         "sex": "UNISEX",
-        "date": 0
-    },
-    {
-        "code": 4,
-        "name": "Arabian Oud Al Fares !",
-        "sex": "UNISEX",
-        "date": 0
-    },
-    {
-        "code": 5,
-        "name": "Arabian Oud Sehr Al Kalemat !",
-        "sex": "UNISEX",
-        "date": 0
-    },
-    {
-        "code": 6,
-        "name": "Armani Prive Ambre Orient !",
-        "sex": "UNISEX",
-        "date": 0
-    },
-    {
-        "code": 8,
-        "name": "Armani Prive Rose Alexanderie !",
-        "sex": "UNISEX",
-        "date": 0
-    },
-    {
-        "code": 9,
-        "name": "Armani Prive Myrrhe Imperiale !",
-        "sex": "UNISEX",
-        "date": 2013
-    },
-    {
-        "code": 10,
-        "name": "Armani Prive Narce !",
-        "sex": "UNISEX",
-        "date": 2012
-    },
-    {
-        "code": 11,
-        "name": "Armani Prive Cuir Amethysre !",
-        "sex": "UNISEX",
-        "date": 2005
-    },
-    {
-        "code": 12,
-        "name": "Giorgio Armani Armani Code Ice !",
-        "sex": "HOMME",
-        "date": 2014
-    },
-    {
-        "code": 13,
-        "name": "Giorgio Armani Armani Black Code !",
-        "sex": "HOMME",
-        "date": 2004
-    },
-    {
-        "code": 14,
-        "name": "Giorgio Armani Armani Code Colonia !",
-        "sex": "HOMME",
-        "date": 2017
-    },
-    {
-        "code": 15,
-        "name": "Giorgio Armani Armani Code Profumo !",
-        "sex": "HOMME",
-        "date": 2016
-    },
-    {
-        "code": 16,
-        "name": "Giorgio Armani Emporio Armani he !",
-        "sex": "HOMME",
-        "date": 1998
+        "date": "0"
     }
 ] 
 }
